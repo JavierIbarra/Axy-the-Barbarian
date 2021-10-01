@@ -10,7 +10,7 @@ public class Flecha : MonoBehaviour
     void Start()
     {
         gazer = GameObject.Find("Gazer").GetComponent<Gazer>();
-        Destroy(gameObject, gazer.Velocidad);
+        Destroy(gameObject, gazer.Velocidad );
     }
 
     // Update is called once per frame
