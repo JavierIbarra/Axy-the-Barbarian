@@ -14,6 +14,14 @@ public class Player : MonoBehaviour
 
     void Update()
     {
+        
+    }
+
+     void OnCollisionEnter2D(){
+        GetComponent<AudioSource>().Play();
+    }
+    
+    void FixedUpdate(){
         Movimiento = new Vector3(Input.GetAxisRaw("Horizontal"), Input.GetAxisRaw("Vertical"),0);
         Movimiento = Movimiento.normalized;
         transform.position += Movimiento * Velocidad * Time.deltaTime;

@@ -23,7 +23,6 @@ public class Gazer : MonoBehaviour
             {
                 recorrer = false;
             }
-
         }
         else
         {
@@ -32,7 +31,6 @@ public class Gazer : MonoBehaviour
             {
                 recorrer = true;
             }
-
         }
     }
 }
