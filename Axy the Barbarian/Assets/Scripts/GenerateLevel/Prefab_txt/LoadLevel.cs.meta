@@ -1,0 +1,24 @@
+fileFormatVersion: 2
+guid: c2aa642e9a3b7994d9eda48244d34f4d
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - floor: {fileID: 1118411730079967635, guid: 6a8b07b8e07cb7641a5837584412ac75, type: 3}
+  - wall1: {fileID: 2349532975579198108, guid: a48f86ebc8084594d85061c02cac75a2, type: 3}
+  - wall2: {fileID: 6146030164066940853, guid: aca9645335571f7458159060d36182b3, type: 3}
+  - wall3: {fileID: 7011025355541999677, guid: 9f886c1763f1d1e4a8c80432514048e5, type: 3}
+  - wall4: {fileID: 3760164060513767783, guid: e4672eb50619f384a928681ce09321fd, type: 3}
+  - wall5: {instanceID: 0}
+  - wall6: {instanceID: 0}
+  - wall7: {instanceID: 0}
+  - wall8: {instanceID: 0}
+  - player: {instanceID: 0}
+  - gazer: {instanceID: 0}
+  - skeleton: {instanceID: 0}
+  - exit: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
